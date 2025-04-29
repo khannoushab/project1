@@ -1,6 +1,5 @@
 #include <malloc.h>
 
-// second Comment
 // Test Comment
 int allocate_memory(int *ptrMemory, int size)
 {
